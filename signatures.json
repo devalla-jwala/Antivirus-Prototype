@@ -1,0 +1,7 @@
+{
+    "extensions": [".exe", ".bat", ".vbs"],
+    "keywords": ["eval", "exec", "base64", "subprocess"],
+    "hashes": [
+        "5d41402abc4b2a76b9719d911017c592"   
+    ]
+}
